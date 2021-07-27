@@ -14,6 +14,9 @@
 
 # PARA HACER EL REPLIEGUE EN UN REPOSITORIO EXTERNO COMO EJEMPLO GIBHUB
   COPIAR LOS COMANDOS 
-  git remote add origin https://github.com/Antonmarchitec/ProyectoDePruebaGIT.git
-  git branch -M main
-  git push -u origin main
+  1. git remote add origin https://github.com/Antonmarchitec/ProyectoDePruebaGIT.git
+  2. git branch -M main
+  3. git push -u origin main
+
+# CUANDO SE QUIERE EDITAR EN EL REPOSITORIO SOLO SERA 
+  1. git push
