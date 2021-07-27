@@ -11,3 +11,9 @@
 10. git checkout master             (para volver a la rama principal) 
 11. git merge rama-heroes           (incluir ramas secundarias a rama master)  
 12. git branch -d rama-heroes       (para eliminar las ramas que ya no nos sirven)
+
+# PARA HACER EL REPLIEGUE EN UN REPOSITORIO EXTERNO COMO EJEMPLO GIBHUB
+  COPIAR LOS COMANDOS 
+  git remote add origin https://github.com/Antonmarchitec/ProyectoDePruebaGIT.git
+  git branch -M main
+  git push -u origin main
