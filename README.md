@@ -8,3 +8,5 @@
 7- git commit --amend         (Editar el nombre del ultimo commit (tecla i) para salir Esc + :wq!)
 8- git checkout -b rama-heroes      (crear una nueva rama ejemplo:rama-heroes)
 9- git branch                       (ver cuantas ramas tengo)
+10- git checkout master             (para volver a la rama principal) 
+
