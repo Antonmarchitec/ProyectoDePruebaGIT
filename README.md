@@ -18,6 +18,6 @@
   2. git branch -M main
   3. git push -u origin main
 
-# CUANDO SE QUIERE EDITAR EN EL REPOSITORIO SOLO SERA 
+# CUANDO SE QUIERE EDITAR Y EL PROYECTO YA ESTA EN EL REPOSITORIO SOLO SERA 
   1. git push
   2. git commit -am "mensaje"     (reemplaza al git add . // git commit -m "comentario")
