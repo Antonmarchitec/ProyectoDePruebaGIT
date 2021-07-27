@@ -10,3 +10,4 @@
 9- git branch                       (ver cuantas ramas tengo)
 10- git checkout master             (para volver a la rama principal) 
 11- git merge rama-heroes           (incluir ramas secundarias a rama master)  
+12- git branch -d rama-heroes       (para eliminar las ramas que ya no nos sirven)
